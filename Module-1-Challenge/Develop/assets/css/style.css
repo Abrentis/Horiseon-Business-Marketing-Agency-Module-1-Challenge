@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* <header> selectors */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -46,6 +47,7 @@ a {
     text-decoration: none;
 }
 
+/* <main> selectors */
 p {
     font-size: 16px;
 }
@@ -188,6 +190,7 @@ p {
     font-size: 36px;
 }
 
+/* <footer> selectors */
 .footer {
     padding: 30px;
     clear: both;
