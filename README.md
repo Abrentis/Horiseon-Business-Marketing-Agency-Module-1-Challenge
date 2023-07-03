@@ -13,9 +13,7 @@ Through making these changes, I was able to practice methods on improving access
 
 Below is a preview of what Horiseon's webpage looks like:
 
-```md
-  ![alt text](./Horiseon-Business-Marketing-Agency/Develop/assets/images/Horiseon-web-page.png)
-```
+![Horiseon Business Marketing Agency's website](Horiseon-Business-Marketing-Agency/Develop/assets/images/Horiseon-webpage-preview.png)
 
 ## License
 
