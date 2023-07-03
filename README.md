@@ -15,6 +15,10 @@ Below is a preview of what Horiseon's webpage looks like:
 
 ![Horiseon Business Marketing Agency's website](./assets/images/Horiseon-webpage-preview.png)
 
+Visit their website here:
+
+https://abrentis.github.io/Module-1-Challenge/
+
 ## License
 
 MIT License (refer to LICENSE within the GitHub repo for more information)
